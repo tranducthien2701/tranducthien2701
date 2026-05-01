@@ -1,22 +1,26 @@
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="350" alt="Coding GIF">
 
-  <h1>Chào mừng đến với không gian của tôi! 👋</h1>
+  <h1>Hi there, welcome to my space! 👋</h1>
   <h3>Software Developer & Tech Enthusiast 🚀</h3>
 
-  <p>Đam mê viết code, học hỏi công nghệ mới và xây dựng các dự án thú vị.</p>
+  <p>Passionate about coding, exploring new technologies, and building interesting projects.</p>
+
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
 
 ---
 
-### 👨‍💻 Về bản thân
+### 👨‍💻 About Me
 
-- 🔭 **Đang tập trung vào:** Tìm hiểu và phát triển các dự án mã nguồn mở.
-- 🌱 **Mục tiêu học tập:** Liên tục trau dồi kỹ năng lập trình, kiến thức hệ thống và bảo mật.
-- 👯 **Sẵn sàng hợp tác:** Trong các dự án phần mềm hoặc các thử thách lập trình.
-- 📫 **Liên hệ với tôi:** [Thêm Email/LinkedIn của bạn vào đây]
+- 🔭 **Currently focusing on:** Exploring and contributing to open-source projects.
+- 🌱 **Learning goals:** Continuously improving my programming skills, system knowledge, and security.
+- 👯 **Looking to collaborate on:** Software development projects or coding challenges.
+- 📫 **How to reach me:** You can connect with me via [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME) or email at `your-email@example.com`.
 
-### 🛠️ Ngôn ngữ & Công cụ
+### 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -26,8 +30,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 🌌 Thống kê hoạt động
+### 🌌 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tranducthien2701&show_icons=true&theme=radical&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tranducthien2701&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
