@@ -1,28 +1,29 @@
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="350" alt="Coding GIF">
 
-  <h1>Chào mừng đến với không gian của Thiện! 👋</h1>
-  <h3>Software Engineering Student & Project Leader 🚀</h3>
+  <h1>Chào mừng đến với không gian của tôi! 👋</h1>
+  <h3>Software Developer & Tech Enthusiast 🚀</h3>
 
-  <p>Đam mê khám phá <b>An toàn thông tin</b>, xây dựng <b>Trình biên dịch (Compiler)</b> và du hành trong vũ trụ mã nguồn mở.</p>
+  <p>Đam mê viết code, học hỏi công nghệ mới và xây dựng các dự án thú vị.</p>
 </div>
 
 ---
 
-### 👨‍💻 Về bản thân tôi
+### 👨‍💻 Về bản thân
 
-- 🔭 **Đang tập trung vào:** Dẫn dắt nhóm phát triển trình biên dịch (TyC, phân tích AST) và nghiên cứu các ứng dụng AI.
-- 🛡️ **Lĩnh vực khám phá:** Chuyên sâu về **Network Security**, cấu hình Wazuh, rèn luyện kỹ năng trên Kali Linux và thử nghiệm Metasploitable.
-- 🌱 **Mục tiêu học tập:** Đang tăng tốc ôn luyện để chinh phục chứng chỉ tiếng Nhật **JLPT N3** vào tháng 7/2026.
-- 🏋️‍♂️ **Khi rời xa bàn phím:** Bạn sẽ thấy tôi đang theo lịch tập full-body 3 ngày/tuần tại phòng gym hoặc leo rank trong League of Legends.
+- 🔭 **Đang tập trung vào:** Tìm hiểu và phát triển các dự án mã nguồn mở.
+- 🌱 **Mục tiêu học tập:** Liên tục trau dồi kỹ năng lập trình, kiến thức hệ thống và bảo mật.
+- 👯 **Sẵn sàng hợp tác:** Trong các dự án phần mềm hoặc các thử thách lập trình.
+- 📫 **Liên hệ với tôi:** [Thêm Email/LinkedIn của bạn vào đây]
 
-### 🛠️ Ngôn ngữ & Công cụ chiến đấu
+### 🛠️ Ngôn ngữ & Công cụ
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/TryHackMe-black?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
 </p>
 
 ### 🌌 Thống kê hoạt động
