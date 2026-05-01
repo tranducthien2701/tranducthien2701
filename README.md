@@ -6,7 +6,7 @@
 
   <p>Passionate about coding, exploring new technologies, and building interesting projects.</p>
 
-  <a href="[https://linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/tr%E1%BA%A7n-%C4%91%E1%BB%A9c-thi%E1%BB%87n-8762a7272/)" target="_blank">
+  <a href="https://www.linkedin.com/in/trần-đức-thiện-8762a7272" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
@@ -18,7 +18,7 @@
 - 🔭 **Currently focusing on:** Exploring and contributing to open-source projects.
 - 🌱 **Learning goals:** Continuously improving my programming skills, system knowledge, and security.
 - 👯 **Looking to collaborate on:** Software development projects or coding challenges.
-- 📫 **How to reach me:** You can connect with me via [LinkedIn]([https://linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/tr%E1%BA%A7n-%C4%91%E1%BB%A9c-thi%E1%BB%87n-8762a7272/)) or email at `tranthien2712005@gmail.com`.
+- 📫 **How to reach me:** You can connect with me via [LinkedIn](https://www.linkedin.com/in/trần-đức-thiện-8762a7272) or email at `tranthien2712005@gmail.com`.
 
 ### 🛠️ Languages & Tools
 
