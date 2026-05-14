@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="350" alt="Coding GIF">
 
   <h1>Hi there, welcome to my space! 👋</h1>
-  <h3>Software Developer & Tech Enthusiast 🚀</h3>
+  <h3>Software Developer & System Admin🚀</h3>
 
   <p>Passionate about coding, exploring new technologies, and building interesting projects.</p>
 
